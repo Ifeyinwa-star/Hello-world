@@ -1,6 +1,6 @@
 # Shopping List
-Eggs
-Chicken
-Cheese
-Sugar
-Ham
+-Eggs
+-Chicken
+-Cheese
+-Sugar
+-Ham
